@@ -24,7 +24,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 ![#9B7D61](https://img.shields.io/badge/-%239B7D61-9B7D61?style=for-the-badge)
 ![#DAA38F](https://img.shields.io/badge/-%23DAA38F-DAA38F?style=for-the-badge)
 ![#92ADA4](https://img.shields.io/badge/-%2392ADA4-92ADA4?style=for-the-badge)
-![#FED8A6](https://img.shields.io/badge/-%23FED8A6-FED8A6?style=for-the-badge) |
+![#FED8A6](https://img.shields.io/badge/-%23FED8A6-FED8A6?style=for-the-badge) 
 
 > When you're tired but your palette still slays.
 
@@ -42,7 +42,14 @@ Perfect for CSS themes, UI kits, and creative experiments.
 ![#F2F1E7](https://img.shields.io/badge/-%23F2F1E7-F2F1E7?style=for-the-badge)
 ![#FECDAA](https://img.shields.io/badge/-%23FECDAA-FECDAA?style=for-the-badge)
 ![#FFB38E](https://img.shields.io/badge/-%23FFB38E-FFB38E?style=for-the-badge)
-![#6A4C93](https://img.shields.io/badge/-%236A4C93-6A4C93?style=for-the-badge) |
+![#6A4C93](https://img.shields.io/badge/-%236A4C93-6A4C93?style=for-the-badge)
+![#F7E6A9](https://img.shields.io/badge/-%23F7E6A9-F7E6A9?style=for-the-badge)
+![#8A6674](https://img.shields.io/badge/-%238A6674-8A6674?style=for-the-badge)
+![#70020F](https://img.shields.io/badge/-%2370020F-70020F?style=for-the-badge)
+![#003631](https://img.shields.io/badge/-%23003631-003631?style=for-the-badge)
+![#CBD9FF](https://img.shields.io/badge/-%23CBD9FF-CBD9FF?style=for-the-badge)
+![#58355E](https://img.shields.io/badge/-%2358355E-58355E?style=for-the-badge)
+![#C4D6B0](https://img.shields.io/badge/-%23C4D6B0-C4D6B0?style=for-the-badge)
 
 > Dark mode never sleeps.
 
@@ -60,7 +67,13 @@ Perfect for CSS themes, UI kits, and creative experiments.
 ![#3C91E6](https://img.shields.io/badge/-%233C91E6-3C91E6?style=for-the-badge)
 ![#8ECAE6](https://img.shields.io/badge/-%238ECAE6-8ECAE6?style=for-the-badge)
 ![#FFB703](https://img.shields.io/badge/-%23FFB703-FFB703?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge) |
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
 
 > System glitching… please refresh your soul.
 
