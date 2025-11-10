@@ -5,7 +5,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
 
-## Burnout but Make It Aesthetic
+## softıe pie
 
 | Palette | Colors |
 |----------|---------|
@@ -30,7 +30,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
 
-## Caffeine & CSS
+## Hurshy murshy
 
 | Palette | Colors |
 |----------|---------|
@@ -55,7 +55,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
 
-## 404 Color Not Found
+## Solid Molid
 
 | Palette | Colors |
 |----------|---------|
@@ -67,13 +67,13 @@ Perfect for CSS themes, UI kits, and creative experiments.
 ![#3C91E6](https://img.shields.io/badge/-%233C91E6-3C91E6?style=for-the-badge)
 ![#8ECAE6](https://img.shields.io/badge/-%238ECAE6-8ECAE6?style=for-the-badge)
 ![#FFB703](https://img.shields.io/badge/-%23FFB703-FFB703?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
-![#FB8500](https://img.shields.io/badge/-%23FB8500-FB8500?style=for-the-badge)
+![#863525](https://img.shields.io/badge/-%23863525-863525?style=for-the-badge)
+![#DD733C](https://img.shields.io/badge/-%23DD733C-DD733C?style=for-the-badge)
+![#F9A45F](https://img.shields.io/badge/-%23F9A45F-F9A45F?style=for-the-badge)
+![#271525](https://img.shields.io/badge/-%23271525-271525?style=for-the-badge)
+![#D88E83](https://img.shields.io/badge/-%23D88E83-D88E83?style=for-the-badge)
+![#7E1C2E](https://img.shields.io/badge/-%237E1C2E-7E1C2E?style=for-the-badge)
+![#410709](https://img.shields.io/badge/-%23410709-410709?style=for-the-badge)
 
 > System glitching… please refresh your soul.
 
