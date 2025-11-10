@@ -1,3 +1,7 @@
+![Rare HEX Palettes](https://raw.githubusercontent.com/Evrimsvn/rare-hex-palettes/main/banner.png)
+
+
+
 # Rare HEX Color Palettes
 
 A collection of rare HEX color palettes inspired by modern design moods.  
