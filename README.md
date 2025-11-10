@@ -1,5 +1,12 @@
 ![Rare HEX Palettes](https://github.com/Evrimsvn/rare-hex-palettes/blob/main/banner.png?raw=true)
 
+## Burnout but Make It Aesthetic
+
+![#768E78](https://img.shields.io/badge/-%23768E78-768E78?style=for-the-badge&logoColor=white)
+![#C5C09C](https://img.shields.io/badge/-%23C5C09C-C5C09C?style=for-the-badge&logoColor=black)
+![#EBDEC0](https://img.shields.io/badge/-%23EBDEC0-EBDEC0?style=for-the-badge&logoColor=black)
+![#E79897](https://img.shields.io/badge/-%23E79897-E79897?style=for-the-badge&logoColor=black)
+![#FCAC83](https://img.shields.io/badge/-%23FCAC83-FCAC83?style=for-the-badge&logoColor=black)
 
 
 
