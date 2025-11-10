@@ -9,8 +9,8 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 | Palette | Colors |
 |----------|---------|
-| **Burnout but Make It Aesthetic** |  |
-| | ![#768E78](https://img.shields.io/badge/-%23768E78-768E78?style=for-the-badge)
+
+![#768E78](https://img.shields.io/badge/-%23768E78-768E78?style=for-the-badge)
 ![#C5C09C](https://img.shields.io/badge/-%23C5C09C-C5C09C?style=for-the-badge)
 ![#EBDEC0](https://img.shields.io/badge/-%23EBDEC0-EBDEC0?style=for-the-badge)
 ![#E79897](https://img.shields.io/badge/-%23E79897-E79897?style=for-the-badge)
@@ -34,8 +34,8 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 | Palette | Colors |
 |----------|---------|
-| **Caffeine & CSS** |  |
-| | ![#1E1E24](https://img.shields.io/badge/-%231E1E24-1E1E24?style=for-the-badge)
+
+![#1E1E24](https://img.shields.io/badge/-%231E1E24-1E1E24?style=for-the-badge)
 ![#3D2C8D](https://img.shields.io/badge/-%233D2C8D-3D2C8D?style=for-the-badge)
 ![#916BBF](https://img.shields.io/badge/-%23916BBF-916BBF?style=for-the-badge)
 ![#C996CC](https://img.shields.io/badge/-%23C996CC-C996CC?style=for-the-badge)
@@ -52,8 +52,8 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 | Palette | Colors |
 |----------|---------|
-| **404 Color Not Found** |  |
-| | ![#0D0D0D](https://img.shields.io/badge/-%230D0D0D-0D0D0D?style=for-the-badge)
+
+![#0D0D0D](https://img.shields.io/badge/-%230D0D0D-0D0D0D?style=for-the-badge)
 ![#2B2B2B](https://img.shields.io/badge/-%232B2B2B-2B2B2B?style=for-the-badge)
 ![#FF003C](https://img.shields.io/badge/-%23FF003C-FF003C?style=for-the-badge)
 ![#FAF9F6](https://img.shields.io/badge/-%23FAF9F6-FAF9F6?style=for-the-badge)
