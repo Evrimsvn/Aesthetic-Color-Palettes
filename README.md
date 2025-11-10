@@ -30,7 +30,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
 
-## Hurshy murshy
+## hurshy murshy
 
 | Palette | Colors |
 |----------|---------|
@@ -55,7 +55,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
 
-## Solid Molid
+## solid molid
 
 | Palette | Colors |
 |----------|---------|
