@@ -5,7 +5,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
 
-## softıe pie
+## softie pie
 
 | Palette | Colors |
 |----------|---------|
