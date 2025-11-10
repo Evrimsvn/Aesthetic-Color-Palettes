@@ -18,7 +18,7 @@ Perfect for CSS themes, UI kits, and creative experiments.
 <span style="background-color:#FCC88A; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#FCC88A`
 <span style="background-color:#A3A380; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#A3A380`
 <span style="background-color:#D7CE93; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#D7CE93`
-< span style="background-color:#EFEBCE; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#EFEBCE`
+<span style="background-color:#EFEBCE; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#EFEBCE`
 <span style="background-color:#D8A48F; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#D8A48F`
 <span style="background-color:#BB8588; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#BB8588`
 <span style="background-color:#9B7D61; width:20px; height:20px; border-radius:4px; display:inline-block; margin-right:6px; border:1px solid #999;"></span> `#9B7D61`
