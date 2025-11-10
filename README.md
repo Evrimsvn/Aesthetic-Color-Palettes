@@ -4,6 +4,26 @@ A collection of rare HEX color palettes inspired by modern design moods.
 Perfect for CSS themes, UI kits, and creative experiments.
 
 ---
+## Burnout but Make It Aesthetic
+
+| Palette | Colors |
+|----------|---------|
+| **Burnout but Make It Aesthetic** |  |
+| | ![#768E78](https://img.shields.io/badge/-%23768E78-768E78?style=for-the-badge)
+![#C5C09C](https://img.shields.io/badge/-%23C5C09C-C5C09C?style=for-the-badge)
+![#EBDEC0](https://img.shields.io/badge/-%23EBDEC0-EBDEC0?style=for-the-badge)
+![#E79897](https://img.shields.io/badge/-%23E79897-E79897?style=for-the-badge)
+![#FCAC83](https://img.shields.io/badge/-%23FCAC83-FCAC83?style=for-the-badge)
+![#FCC88A](https://img.shields.io/badge/-%23FCC88A-FCC88A?style=for-the-badge)
+![#A3A380](https://img.shields.io/badge/-%23A3A380-A3A380?style=for-the-badge)
+![#D7CE93](https://img.shields.io/badge/-%23D7CE93-D7CE93?style=for-the-badge)
+![#EFEBCE](https://img.shields.io/badge/-%23EFEBCE-EFEBCE?style=for-the-badge)
+![#D8A48F](https://img.shields.io/badge/-%23D8A48F-D8A48F?style=for-the-badge)
+![#BB8588](https://img.shields.io/badge/-%23BB8588-BB8588?style=for-the-badge)
+![#9B7D61](https://img.shields.io/badge/-%239B7D61-9B7D61?style=for-the-badge)
+![#DAA38F](https://img.shields.io/badge/-%23DAA38F-DAA38F?style=for-the-badge)
+![#92ADA4](https://img.shields.io/badge/-%2392ADA4-92ADA4?style=for-the-badge)
+![#FED8A6](https://img.shields.io/badge/-%23FED8A6-FED8A6?style=for-the-badge) |
 
 
 ## Burnout but Make It Aesthetic
